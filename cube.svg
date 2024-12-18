@@ -1,0 +1,19 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1200px" height="1200px" >
+<metadata>created by SKOG</metadata>
+<g fill="#9EBB16" stroke="#9EBB16">
+    <path d="M 100,220 L 400,010 Z" stroke-width="4"/>
+    <path d="M 100,220 L 400,410 Z" stroke-width="4"/>
+    <path d="M 400,410 L 700,220 Z" stroke-width="4"/>
+    <path d="M 700,220 L 400,010 Z" stroke-width="4"/>
+
+    <path d="M 400,410 L 400,720 Z" stroke-width="4"/>
+    <path d="M 100,220 L 400,410 Z" stroke-width="4"/>
+    <path d="M 100,220 L 100,520 Z" stroke-width="4"/>
+    <path d="M 100,520 L 400,720 Z" stroke-width="4"/>
+
+    <path d="M 800,220 L 800,520 Z" stroke-width="4"/>
+    <path d="M 800 520 L 500,720 Z" stroke-width="4"/>
+    <path d="M 500,410 L 800,220 Z" stroke-width="4"/>
+    <path d="M 500,410 L 500,720 Z" stroke-width="4"/>
+</g>
+</svg>
